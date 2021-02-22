@@ -3,12 +3,13 @@ bin/
 bin-int/
 
 # assets
-CS7GV3/assets/
+CS7GV3 - Assignment 1/assets/
 
 # third party
-CS7GV3/external/
+CS7GV3 - Assignment 1/external/
 
 # VS files
+.vs/
 *.sln
 *.vcxproj
 *.filters
