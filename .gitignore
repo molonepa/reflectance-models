@@ -1,0 +1,18 @@
+# build directories
+bin/
+bin-int/
+
+# assets
+CS7GV3/assets/
+
+# third party
+CS7GV3/external/
+
+# VS files
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+# other
+*.ini
